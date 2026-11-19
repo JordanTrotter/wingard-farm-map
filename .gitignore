@@ -5,3 +5,4 @@ data/
 *.qgz
 *.qgs
 webmap.json
+.tilekey
